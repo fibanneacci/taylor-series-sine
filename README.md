@@ -1,7 +1,9 @@
 # taylor-series-sine
-visualization of sine function approximation
+### Visualization of Taylor series for sine function
 
 Swift Playground for visualizing Taylor series approximation of sine function.
-Interactive with buttons to change center & degree of polynomial.
+Interactive with buttons to change center & degree of blue curve (representing the Taylor polynomial).
 
-Select "iOS" when creating Playground file on Xcode.
+![Alt text](/visualization.png?raw=true "Visualization")
+
+Note: Select "iOS" when creating Playground file on Xcode, UIKit will not work for macOS.
