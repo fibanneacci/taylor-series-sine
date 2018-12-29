@@ -1,4 +1,4 @@
-# taylor-series-sine
+# tsv
 ### Visualization of Taylor series for sine function
 
 Swift Playground for visualizing Taylor series approximation of sine function.
