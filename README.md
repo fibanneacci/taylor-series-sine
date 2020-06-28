@@ -8,5 +8,3 @@ Interactive with buttons to change center & degree of blue curve (representing t
 Demo [here](https://youtu.be/PalTqRUvYdM).
 
 ![Alt text](/visualization.png?raw=true "Visualization")
-
-Note: Select "iOS" when creating Playground file on Xcode, UIKit will not work for macOS.
