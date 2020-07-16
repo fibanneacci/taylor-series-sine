@@ -1,5 +1,5 @@
-# taylor-series-sine
-### Visualization of Taylor series for sine function
+# Taylor Series for Sine Function
+### Visualization / learning tool
 
 Xcode Playground for visualizing Taylor series approximation of sine function.
 
